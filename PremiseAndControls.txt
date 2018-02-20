@@ -1,0 +1,16 @@
+CSC 1351 FINAL PROJECT- CATCH THE SQUIRREL
+
+Premise: Oh No! A squirrel has run off with your french fry once again! You must catch that squirrel before it gets away. 
+Avoid obstacles as you collect powerups(fries) to get you closer to the squirrel. But avoid the obstacles, or you'll lose a life!
+
+How the project works: This game works from an avoid the obstacles premise. If you hit any of the obstacles, you lose a life, and if you 
+lose all three lives given to you, you must start the game over. However, you can get lives back by collecting hearts. Collect the fries to 
+move closer to the squirrel. Good luck!
+
+User Controls:
+-Up- move up in the y direction
+-Down- move down in the y direction
+
+Viewable on Screen:
+-if a fry is picked up, it will show how much progress to the squirrel you have made in the top right of the screen
+-a life bar in the top left of the screen will show how many lives the user has left
